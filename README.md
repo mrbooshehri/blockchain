@@ -1,3 +1,29 @@
+# Prerequisites
+
+## Cryptography
+
+Cryptography is a technique to secure information and communication by
+using a set of rule-based calculations called algorithms and some
+mathematical concepts so only the right person can understand it .
+There are three fundamental types of Cryptography: **Symmetric Key
+Cryptography**, **Asymmetric Key Cryptography**, and **Hash Function**
+. 
+
+**Symmetric Key Cryptography** is an encryption technique that relies on
+a single secret key for both encrypting and decrypting data . It is
+also referred to as Single Key Encryption . 
+
+**Asymmetric Key Cryptography** is an encryption technique that uses two
+keys, a public key and a private key, for encrypting and decrypting data
+. The public key is used for encrypting data, while the private key is
+used for decrypting data . 
+
+**Hash Function** is a technique that takes an input (or 'message') and
+returns a fixed-size string of characters, which is typically a
+hexadecimal string . Hash functions are used to verify the integrity of
+data by detecting any changes to the original data . They are also used
+to store passwords securely .
+
 # What Is a Blockchain? 
 
 A blockchain is a distributed database or ledger
