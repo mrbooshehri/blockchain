@@ -11,6 +11,30 @@
 - [ ] What is 
 
 
+Table of Contents
+=================
+
+* [Prerequisites](#prerequisites)
+   * [Cryptography](#cryptography)
+* [What Is a Blockchain?](#what-is-a-blockchain)
+   * [KEY TAKEAWAYS](#key-takeaways)
+* [How Does a Blockchain Work?](#how-does-a-blockchain-work)
+   * [Transaction Process](#transaction-process)
+* [Blockchain Decentralization](#blockchain-decentralization)
+* [Blockchain Transparency](#blockchain-transparency)
+* [Is Blockchain Secure?](#is-blockchain-secure)
+* [Blockchain Applications](#blockchain-applications)
+* [What is Ethereum](#what-is-ethereum)
+* [Ethereum layer 2](#ethereum-layer-2)
+* [What is airdrop](#what-is-airdrop)
+* [Airdrop vs Swap vs Liquidity](#airdrop-vs-swap-vs-liquidity)
+* [Smart contract](#smart-contract)
+* [What is BNB](#what-is-bnb)
+* [Arbitrum](#arbitrum)
+* [Optimism](#optimism)
+* [Polygon](#polygon)
+* [Related](#related)
+
 # Prerequisites
 
 ## Cryptography
